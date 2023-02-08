@@ -1,6 +1,6 @@
 #!/bin/bash
 # Set the path to the GAM you want to use
-GAM=/home/larsen161/bin/gamadv-xtd3/gam
+GAM=/users/lamine.coly/bin/gamadv-xtd3/gam
 GAMFILEPATH=~/gam-data
 
 # Capture the first name details
